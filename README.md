@@ -185,7 +185,6 @@ The NetGuard dashboard displays:
 - Alert severity
 
 
-
 ## Security Alerts
 
 Detected suspicious activity is stored in the SQLite database and displayed on the dashboard.
