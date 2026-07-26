@@ -217,3 +217,8 @@ To test security alerts and database storage:
 python test_alerts.py
 ```
 
+<img width="1536" height="770" alt="image" src="https://github.com/user-attachments/assets/6f8ff789-2c4b-42bb-8ccb-f266d65ff17c" />
+<img width="1536" height="757" alt="image" src="https://github.com/user-attachments/assets/6a754c6f-7d57-44a6-9d7f-317e96cc3b0f" />
+<img width="1533" height="780" alt="image" src="https://github.com/user-attachments/assets/d2573c94-477b-4451-af50-fd839f2f0984" />
+
+
