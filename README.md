@@ -40,7 +40,7 @@ Captured network traffic and security alerts are stored using SQLite and display
 1. Clone the repository:
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
+git clone https://github.com/Kamaleswari-M/NetGuard
 
 cd NetGuard
 ```
@@ -184,7 +184,7 @@ The NetGuard dashboard displays:
 - Security alerts
 - Alert severity
 
-<!-- Add your dashboard screenshot here -->
+
 
 ## Security Alerts
 
@@ -197,8 +197,6 @@ Each alert contains:
 - Source IP
 - Severity
 - Detection message
-
-<!-- Add your security alerts screenshot here -->
 
 ## Testing
 
@@ -220,30 +218,3 @@ To test security alerts and database storage:
 python test_alerts.py
 ```
 
-The test scripts simulate suspicious network patterns for testing the detection system.
-
-## Project Structure
-
-```text
-NetGuard/
-│
-├── app.py
-├── database.py
-├── detector.py
-├── packet_capture.py
-├── test_alerts.py
-├── test_detector.py
-├── test_icmp.py
-├── requirements.txt
-│
-├── templates/
-│   └── dashboard.html
-│
-└── static/
-    ├── style.css
-    └── dashboard.js
-```
-
-## Note
-
-NetGuard is developed for educational and defensive cybersecurity purposes. Network monitoring should only be performed on systems and networks that you own or have permission to monitor.
